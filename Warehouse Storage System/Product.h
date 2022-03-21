@@ -28,8 +28,6 @@ class Product {
 		void addWHLocation(WHLocation*);
 
 
-		// These have been done for you. They are documented
-		// in the assignment specification.
 		void getFromStoreLocation(int& quantity);
 		void getFromWHLocations(int& quantity);
 		void fillOrder(int& quantity);
